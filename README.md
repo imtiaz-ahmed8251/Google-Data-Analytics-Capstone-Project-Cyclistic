@@ -8,8 +8,8 @@ Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html
 SQL Queries:  
 [01. Data Combining](https://github.com/imtiaz-ahmed8251/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/01.%20Data%20Combining.sql)  
 [02. Data Exploration](https://github.com/imtiaz-ahmed8251/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/02.%20Data%20Exploration.sql)  
-[03. Data Cleaning](https://github.com/imtiaz-ahmed8251Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/03.%20Data%20Cleaning.sql)  
-[04. Data Analysis](https://github.com/imtiaz-ahmed8251Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/04.%20Data%20Analysis.sql)  
+[03. Data Cleaning](https://github.com/imtiaz-ahmed8251/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/03.%20Data%20Cleaning.sql)  
+[04. Data Analysis](https://github.com/imtiaz-ahmed8251/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/04.%20Data%20Analysis.sql)  
   
 
 ## Background
